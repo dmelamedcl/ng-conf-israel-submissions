@@ -16,7 +16,7 @@ Regular lecturer at the Pyweb-IL meetup, this full-stack engineer is fond of aut
 - First Time Speaking: no
 - Email: dmelamed@cloudlock.com
 - Phone: 052.7454977
-- LinkedIn: [David Melamed](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
+- LinkedIn: [David Melamed](https://www.linkedin.com/profile/view?id=48028758)
 
 You may also include other relevant links: github, LinkedIn, links to past talks, etc. 
 It will also be helpful if you add links to past presentations video recordings but this is optional.
